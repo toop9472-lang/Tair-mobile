@@ -1,0 +1,15 @@
+{
+  "name": "Tair-mobile",
+  "displayName": "Tair Mobile",
+  "expo": {
+    "name": "Tair",
+    "slug": "tair-mobile",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "com.tair.mobile"
+    },
+    "android": {
+      "package": "com.tair.mobile"
+    }
+  }
+}
